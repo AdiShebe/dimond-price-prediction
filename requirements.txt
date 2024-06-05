@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Flask==3.0.3
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.5.0
+=======
+Flask==3.0.3
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+>>>>>>> 4fa14dedc047fd70a4b5302531fe8ed74f017623
+your changes
+changes from remote
